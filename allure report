@@ -1,0 +1,2 @@
+Pour obtenir le allure report executer :
+ allure serve allure-results

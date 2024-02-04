@@ -1,0 +1,82 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RouterMangmentGUI",
+            "vmArgs": "--module-path /home/chaden/Téléchargements/openjfx-17.0.10_linux-x64_bin-sdk/javafx-sdk-17.0.10/lib --add-modules javafx.controls,javafx.fxml",
+            "request": "launch",
+            "mainClass": "com.example.HCI.RouterMangmentGUI",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.example.Main",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "RouterMangmentGUI",
+            "vmArgs": "--module-path /home/chaden/Téléchargements/openjfx-21.0.1_linux-x64_bin-sdk/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml",
+            "request": "launch",
+            "mainClass": "HCI.RouterMangmentGUI",
+            "projectName": "project_test_ded7f150"
+        },
+        {
+            "type": "java",
+            "name": "RouterMangmentGUI",
+            "vmArgs": "--module-path /home/chaden/Téléchargements/openjfx-21.0.1_linux-x64_bin-sdk/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml",
+            "request": "launch",
+            "mainClass": "IHM.RouterMangmentGUI",
+            "projectName": "project_test_ded7f150"
+        },
+        {
+            "type": "java",
+            "name": "routerapp",
+            "request": "launch",
+            "mainClass": "routerapp",
+            "projectName": "project_test_ded7f150"
+        },
+        {
+            "type": "java",
+            "name": "RouterGUI",
+            "vmArgs": "--module-path /home/chaden/Téléchargements/openjfx-21.0.1_linux-x64_bin-sdk/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml",
+            "request": "launch",
+            "mainClass": "IHM.RouterGUI",
+            "projectName": "project_test_ded7f150"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "RouterGUI",
+            "vmArgs": "--module-path /home/chaden/Téléchargements/openjfx-21.0.1_linux-x64_bin-sdk/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml",
+            "request": "launch",
+            "mainClass": "IHM.RouterGUI",
+            "projectName": "project test_db602891"
+        },
+        {
+            "type": "java",
+            "name": "DatabaseConnectionTest",
+            "request": "launch",
+            "mainClass": "db.DatabaseConnectionTest",
+            "projectName": "project test_db602891"
+        },
+        {
+            "type": "java",
+            "name": "routerapp",
+            "request": "launch",
+            "mainClass": "routerapp",
+            "projectName": "project test_db602891"
+        }
+    ]
+}
