@@ -1,8 +1,8 @@
 
-# Router Management Application with Pipeline Integration
+# inventory Management Application with Pipeline Integration
 
 
-In this mini-class project, we have developed a Router Management application. This application not only performs CRUD operations on routers but also introduces users to the complexities of managing Customer Premises Equipment (CPE) through a remote Configuration and Monitoring server.
+In this mini-class project, we have developed a Inventory Management application. This application not only performs CRUD operations on equipments but also introduces users to the complexities of managing Customer Premises Equipment (CPE) through a remote Configuration and Monitoring server.
 
 
 ## Purpose
@@ -164,10 +164,10 @@ The deployment of the Router Management Application is facilitated through a Jen
 
 ## Screenshots
 
-![App Screenshot](https://res.cloudinary.com/dxzlm2qqz/image/upload/v1708971367/Screenshot_from_2024-02-25_21-17-27_hlkrou.png)
+![App Screenshot](https://res.cloudinary.com/drgzrvosx/image/upload/v1744359793/image_dwdsbk.png)
 
 
-![App Screenshot](https://res.cloudinary.com/dxzlm2qqz/image/upload/v1708971552/Screenshot_from_2024-02-23_23-18-05_od8wuz.png)
+![App Screenshot](https://res.cloudinary.com/drgzrvosx/image/upload/v1744359793/image_1_cfp0hn.png)
 
 
 ## Tech Stack
